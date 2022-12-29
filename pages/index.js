@@ -18,7 +18,7 @@ export default function Home({allPostsData}) {
   return (
       <Layout home>
         <Head>
-          <title>{siteTitle}</title>
+          <title>Test branch!!!</title>
         </Head>
         <section className={utilStyles.headingMd}>
           <p>I am a 4th-year student of the Faculty of Computer Science and Telecommunications at Cracow University of Technology.
